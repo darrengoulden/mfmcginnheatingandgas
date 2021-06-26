@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Feature &#8211; M.F. McGinn &#8211; Heating and Gas</title>
+	<atom:link href="/category/feature/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Experienced Heating and Gas Engineer</description>
+	<lastBuildDate>Mon, 02 Apr 2018 19:46:16 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>24/7 Emergency Service Available</title>
+		<link>/emergency-service/</link>
+					<comments>/emergency-service/#respond</comments>
+		
+		<dc:creator><![CDATA[daz]]></dc:creator>
+		<pubDate>Mon, 02 Apr 2018 19:36:53 +0000</pubDate>
+				<category><![CDATA[Feature]]></category>
+		<guid isPermaLink="false">/?p=60</guid>
+
+					<description><![CDATA[Emergency out of hours service available]]></description>
+										<content:encoded><![CDATA[<p>Emergency out of hours service available</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/emergency-service/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Low Pricing</title>
+		<link>/competitive-pricing/</link>
+					<comments>/competitive-pricing/#respond</comments>
+		
+		<dc:creator><![CDATA[daz]]></dc:creator>
+		<pubDate>Mon, 02 Apr 2018 19:36:41 +0000</pubDate>
+				<category><![CDATA[Feature]]></category>
+		<guid isPermaLink="false">/?p=58</guid>
+
+					<description><![CDATA[Competitive prices guaranteed!]]></description>
+										<content:encoded><![CDATA[<p>Competitive prices guaranteed!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/competitive-pricing/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Free Estimation</title>
+		<link>/free-estimation/</link>
+					<comments>/free-estimation/#respond</comments>
+		
+		<dc:creator><![CDATA[daz]]></dc:creator>
+		<pubDate>Mon, 02 Apr 2018 19:35:57 +0000</pubDate>
+				<category><![CDATA[Feature]]></category>
+		<guid isPermaLink="false">/?p=56</guid>
+
+					<description><![CDATA[Call us for a free no obligation quote]]></description>
+										<content:encoded><![CDATA[<p>Call us for a free no obligation quote</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/free-estimation/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Satisfaction Guarantee</title>
+		<link>/satisfaction-guarantee/</link>
+					<comments>/satisfaction-guarantee/#respond</comments>
+		
+		<dc:creator><![CDATA[daz]]></dc:creator>
+		<pubDate>Mon, 02 Apr 2018 19:35:00 +0000</pubDate>
+				<category><![CDATA[Feature]]></category>
+		<guid isPermaLink="false">/?p=52</guid>
+
+					<description><![CDATA[First class standard of service]]></description>
+										<content:encoded><![CDATA[<p>First class standard of service</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/satisfaction-guarantee/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Services &#8211; M.F. McGinn &#8211; Heating and Gas</title>
+	<atom:link href="/category/services/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Experienced Heating and Gas Engineer</description>
+	<lastBuildDate>Wed, 22 Aug 2018 22:00:04 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Servicing &#038; Repairs</title>
+		<link>/servicing-repairs/</link>
+					<comments>/servicing-repairs/#respond</comments>
+		
+		<dc:creator><![CDATA[daz]]></dc:creator>
+		<pubDate>Mon, 02 Apr 2018 20:03:58 +0000</pubDate>
+				<category><![CDATA[Services]]></category>
+		<guid isPermaLink="false">/?p=90</guid>
+
+					<description><![CDATA[Speak to us about your plumbing issues, no job to big!]]></description>
+										<content:encoded><![CDATA[<p>Speak to us about your plumbing issues, no job to big!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/servicing-repairs/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Gas Safety Certificates</title>
+		<link>/gas-safety/</link>
+					<comments>/gas-safety/#respond</comments>
+		
+		<dc:creator><![CDATA[daz]]></dc:creator>
+		<pubDate>Mon, 02 Apr 2018 20:02:48 +0000</pubDate>
+				<category><![CDATA[Services]]></category>
+		<guid isPermaLink="false">/?p=87</guid>
+
+					<description><![CDATA[I can take care of your Gas Safety Certificate, boiler, central heating or plumbing]]></description>
+										<content:encoded><![CDATA[<p>I can take care of your Gas Safety Certificate, boiler, central heating or plumbing</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gas-safety/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Central Heating Installation</title>
+		<link>/central-heating-installation/</link>
+					<comments>/central-heating-installation/#respond</comments>
+		
+		<dc:creator><![CDATA[daz]]></dc:creator>
+		<pubDate>Mon, 02 Apr 2018 20:00:50 +0000</pubDate>
+				<category><![CDATA[Services]]></category>
+		<guid isPermaLink="false">/?p=83</guid>
+
+					<description><![CDATA[Central heating install and maintenance services available]]></description>
+										<content:encoded><![CDATA[<p>Central heating install and maintenance services available</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/central-heating-installation/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Boiler Installation</title>
+		<link>/boiler-installation/</link>
+					<comments>/boiler-installation/#respond</comments>
+		
+		<dc:creator><![CDATA[daz]]></dc:creator>
+		<pubDate>Mon, 02 Apr 2018 19:47:46 +0000</pubDate>
+				<category><![CDATA[Services]]></category>
+		<guid isPermaLink="false">/?p=74</guid>
+
+					<description><![CDATA[Fully certified to install any  boiler, boiler repair specialist]]></description>
+										<content:encoded><![CDATA[<p>Fully certified to install any  boiler, boiler repair specialist</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/boiler-installation/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
