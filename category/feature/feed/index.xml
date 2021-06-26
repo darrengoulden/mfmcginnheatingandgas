@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Feature &#8211; M.F. McGinn &#8211; Heating and Gas</title>
-	<atom:link href="/mfmcginnheatingandgas/category/feature/feed/" rel="self" type="application/rss+xml" />
-	<link>/mfmcginnheatingandgas/</link>
+	<atom:link href="/category/feature/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Experienced Heating and Gas Engineer</description>
 	<lastBuildDate>Mon, 02 Apr 2018 19:46:16 +0000</lastBuildDate>
 	<language>en-GB</language>
@@ -21,76 +21,76 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>24/7 Emergency Service Available</title>
-		<link>/mfmcginnheatingandgas/emergency-service/</link>
-					<comments>/mfmcginnheatingandgas/emergency-service/#respond</comments>
+		<link>/emergency-service/</link>
+					<comments>/emergency-service/#respond</comments>
 		
 		<dc:creator><![CDATA[daz]]></dc:creator>
 		<pubDate>Mon, 02 Apr 2018 19:36:53 +0000</pubDate>
 				<category><![CDATA[Feature]]></category>
-		<guid isPermaLink="false">/mfmcginnheatingandgas/?p=60</guid>
+		<guid isPermaLink="false">/?p=60</guid>
 
 					<description><![CDATA[Emergency out of hours service available]]></description>
 										<content:encoded><![CDATA[<p>Emergency out of hours service available</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/mfmcginnheatingandgas/emergency-service/feed/</wfw:commentRss>
+					<wfw:commentRss>/emergency-service/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Low Pricing</title>
-		<link>/mfmcginnheatingandgas/competitive-pricing/</link>
-					<comments>/mfmcginnheatingandgas/competitive-pricing/#respond</comments>
+		<link>/competitive-pricing/</link>
+					<comments>/competitive-pricing/#respond</comments>
 		
 		<dc:creator><![CDATA[daz]]></dc:creator>
 		<pubDate>Mon, 02 Apr 2018 19:36:41 +0000</pubDate>
 				<category><![CDATA[Feature]]></category>
-		<guid isPermaLink="false">/mfmcginnheatingandgas/?p=58</guid>
+		<guid isPermaLink="false">/?p=58</guid>
 
 					<description><![CDATA[Competitive prices guaranteed!]]></description>
 										<content:encoded><![CDATA[<p>Competitive prices guaranteed!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/mfmcginnheatingandgas/competitive-pricing/feed/</wfw:commentRss>
+					<wfw:commentRss>/competitive-pricing/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Free Estimation</title>
-		<link>/mfmcginnheatingandgas/free-estimation/</link>
-					<comments>/mfmcginnheatingandgas/free-estimation/#respond</comments>
+		<link>/free-estimation/</link>
+					<comments>/free-estimation/#respond</comments>
 		
 		<dc:creator><![CDATA[daz]]></dc:creator>
 		<pubDate>Mon, 02 Apr 2018 19:35:57 +0000</pubDate>
 				<category><![CDATA[Feature]]></category>
-		<guid isPermaLink="false">/mfmcginnheatingandgas/?p=56</guid>
+		<guid isPermaLink="false">/?p=56</guid>
 
 					<description><![CDATA[Call us for a free no obligation quote]]></description>
 										<content:encoded><![CDATA[<p>Call us for a free no obligation quote</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/mfmcginnheatingandgas/free-estimation/feed/</wfw:commentRss>
+					<wfw:commentRss>/free-estimation/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Satisfaction Guarantee</title>
-		<link>/mfmcginnheatingandgas/satisfaction-guarantee/</link>
-					<comments>/mfmcginnheatingandgas/satisfaction-guarantee/#respond</comments>
+		<link>/satisfaction-guarantee/</link>
+					<comments>/satisfaction-guarantee/#respond</comments>
 		
 		<dc:creator><![CDATA[daz]]></dc:creator>
 		<pubDate>Mon, 02 Apr 2018 19:35:00 +0000</pubDate>
 				<category><![CDATA[Feature]]></category>
-		<guid isPermaLink="false">/mfmcginnheatingandgas/?p=52</guid>
+		<guid isPermaLink="false">/?p=52</guid>
 
 					<description><![CDATA[First class standard of service]]></description>
 										<content:encoded><![CDATA[<p>First class standard of service</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/mfmcginnheatingandgas/satisfaction-guarantee/feed/</wfw:commentRss>
+					<wfw:commentRss>/satisfaction-guarantee/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

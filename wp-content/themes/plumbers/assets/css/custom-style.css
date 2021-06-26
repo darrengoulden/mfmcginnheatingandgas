@@ -143,7 +143,7 @@ a:hover,a:focus,a:visited{
 	float:left;
 	width:100%;
 	position:relative;
-	background-image: url(/mfmcginnheatingandgas/wp-content/themes/plumbers/assets/images/home_banner.jpg);
+	background-image: url(/wp-content/themes/plumbers/assets/images/home_banner.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 	font-family: 'PT Sans', sans-serif;
@@ -531,7 +531,7 @@ a:hover,a:focus,a:visited{
 	width:100%;
 	padding-top:95px;
 	position:relative;
-	background-image: url(/mfmcginnheatingandgas/wp-content/themes/plumbers/assets/images/service_bg.jpg);
+	background-image: url(/wp-content/themes/plumbers/assets/images/service_bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 	font-family: 'PT Sans', sans-serif;
@@ -869,7 +869,7 @@ a:hover,a:focus,a:visited{
 /*---- About page css Start -----*/
 .page_banner_section{
 	position: relative;
-    background-image: url(/mfmcginnheatingandgas/wp-content/themes/plumbers/assets/images/page_banner.jpg);
+    background-image: url(/wp-content/themes/plumbers/assets/images/page_banner.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
